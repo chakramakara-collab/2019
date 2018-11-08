@@ -1,0 +1,24 @@
+{
+	"type": "MSLREFCLIENTCONF",
+	"description": "MSL RefBox Referee Client configuration file",
+	"networking":
+	{
+		"scoreServerHost": "192.168.56.1"
+		"scoreServerPort": 12345
+	},
+	"appearance":
+	{
+		"robotPlayColor": "#E8FFD8",
+		"robotRepairColor": "#24287B",
+		"robotYellowCardColor": "#FEFF0F",
+		"robotDoubleYellowCardColor": "#707000",
+		"robotRedCardColor": "#E01010",
+		"defaultCyanTeamShortName": "***",
+		"defaultCyanTeamLongName": "Disconnected",
+		"defaultCyanTeamColor": "#007BA7",
+		"defaultMagentaTeamShortName": "***",
+		"defaultMagentaTeamLongName": "Disconnected",
+		"defaultMagentaTeamColor": "#DA70D6"
+	}
+}
+
